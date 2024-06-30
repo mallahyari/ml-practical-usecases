@@ -15,15 +15,9 @@ These case studies offer insights into various machine learning applications, hi
 
 ## Acknowledgements
 
-Credit for the compilation of these case studies goes to Evidently AI. This repository is based on their original post.
-
-You can find the original post and learn more about their work here: Evidently AI - ML System Design
+Credit for the compilation of these case studies goes to [Evidently AI](https://www.evidentlyai.com/). This repository is based on their original post. You can find the original post and learn more about their work [here](https://www.evidentlyai.com/ml-system-design).
 
 Thank you, Evidently AI, for providing such a valuable resource for the machine learning community!
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 | Company               | Industry                                  | Short Description (< 5 words)                                 | Title                                                                                                                    | Tag                                                | Year | Link                                                                                                                                                           |
 | :-------------------- | :---------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | ---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
