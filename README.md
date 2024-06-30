@@ -1,4 +1,29 @@
-# ML Practical Use Cases
+# ML System Design: 450 Case Studies to Learn From
+
+## Overview
+
+This repository contains a database of 450 case studies from over 100 companies, showcasing how companies like Netflix, Airbnb, and Doordash apply machine learning to enhance their products and processes. These case studies provide practical ML use cases and valuable learnings from designing ML systems.
+
+## Database Content
+
+The database includes:
+
+- 450 case studies
+- Contributions from over 100 companies
+
+These case studies offer insights into various machine learning applications, highlighting the innovative approaches and methodologies employed by leading companies in the industry.
+
+## Acknowledgements
+
+Credit for the compilation of these case studies goes to Evidently AI. This repository is based on their original post.
+
+You can find the original post and learn more about their work here: Evidently AI - ML System Design
+
+Thank you, Evidently AI, for providing such a valuable resource for the machine learning community!
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 | Company               | Industry                                  | Short Description (< 5 words)                                 | Title                                                                                                                    | Tag                                                | Year | Link                                                                                                                                                           |
 | :-------------------- | :---------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | ---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
