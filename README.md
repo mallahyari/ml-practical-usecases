@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a database of 650 case studies from over 100 companies, showcasing how companies like Netflix, Airbnb, and Doordash apply machine learning to enhance their products and processes. These case studies provide practical ML use cases and valuable learnings from designing ML systems.
+This repository contains a database of **650 case studies** from over **100 companies**, showcasing how companies like Netflix, Airbnb, and Doordash apply machine learning to enhance their products and processes. These case studies provide practical ML use cases and valuable learnings from designing ML systems.
 
 ## Database Content
 
